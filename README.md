@@ -1,1 +1,1 @@
-# FiraCodeSlashedZero
+# Fira Code slashed zero variant
